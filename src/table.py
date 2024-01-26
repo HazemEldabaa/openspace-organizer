@@ -1,4 +1,10 @@
 class Seat:
+    """
+    Creates an instance of Seat 
+    ------------------
+    Contains methods to assign and remove occupant from a specific seat
+
+    """
     def __init__(self):
         self.free = True
         self.occupant = None
@@ -34,7 +40,14 @@ class Seat:
 
 
 class Table:
-    
+    """
+    Creates an instance of table with seats in it
+    ------------------
+    Parameters = Capacity -> how many seats in a table -> intialized at 6
+    ------------------
+    Contains methods to check for capacity and assign specific seats given an instance of table
+
+    """
     def __init__(self, capacity=6):
         self.capacity = capacity
         self.seats = [Seat() for i in range(capacity)]
@@ -47,13 +60,16 @@ class Table:
         Checks if there any free seats on a given instance of Table
         """
         return any(list(seat.free for seat in self.seats))
-
-        
+  
     def assign_seat(self, name):
         """
         If there is an empty seat, choose it and place occupant (name) there
+        ------------------
+        Parameters = name -> taken by random choice from the list of names in the organize method
+        ------------------
+        Output = Assigning an occupant to a seat
         """
-        for seat in self.seats: # if there is an empty seat. pick and set a 
+        for seat in self.seats:  
             
             if seat.free:
                  seat.set_occupant(name)
