@@ -1,0 +1,34 @@
+Open Space Seating Arrangement:
+ Number of people in the room: <generator object OpenSpace.store.<locals>.<genexpr> at 0x00000218881AF780>
+
+Table 1 (Capacity: 0 seats left):
+  Seat 1: Leyla
+  Seat 2: Sisko
+  Seat 3: Omar
+  Seat 4: Maarten
+  Seat 5: Julio
+  Seat 6: Cedric
+
+Table 2 (Capacity: 0 seats left):
+  Seat 1: Hazem
+  Seat 2: Phillipe
+  Seat 3: Mimoun
+  Seat 4: Brian
+  Seat 5: Jean
+  Seat 6: Mark
+
+Table 3 (Capacity: 0 seats left):
+  Seat 1: Archana
+  Seat 2: Sahar
+  Seat 3: Mahak
+  Seat 4: Polina
+  Seat 5: Sam
+  Seat 6: Jagger
+
+Table 4 (Capacity: 0 seats left):
+  Seat 1: Sebastiaan
+  Seat 2: Oleh
+  Seat 3: Jiyoti
+  Seat 4: Lea
+  Seat 5: Mehmet
+  Seat 6: Sylvain
