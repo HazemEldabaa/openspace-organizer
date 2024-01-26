@@ -10,7 +10,7 @@ This Python script can be run each time to reassign everybody to a new seat.
 
 ## Installation
 
-* Prerequisities: Python 3.x\
+* Prerequisities: Python 3.x
 
 * Press the green code button and download ZIP, unzip the archive in a directory of your choice and launch the main.py file through the terminal. Ensure that all subfolders have the same name
 
