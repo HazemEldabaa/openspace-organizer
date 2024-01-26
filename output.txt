@@ -2,33 +2,33 @@ Open Space Seating Arrangement:
  Number of people in the room: 24
 
 Table 1 (Capacity: 0 seats left):
-  Seat 1: Mehmet
-  Seat 2: Mahak
-  Seat 3: Omar
-  Seat 4: Archana
-  Seat 5: Jean
-  Seat 6: Mimoun
+  Seat 1: Jagger
+  Seat 2: Mark
+  Seat 3: Sam
+  Seat 4: Cedric
+  Seat 5: Sahar
+  Seat 6: Sisko
 
 Table 2 (Capacity: 0 seats left):
-  Seat 1: Oleh
-  Seat 2: Julio
-  Seat 3: Leyla
-  Seat 4: Hazem
-  Seat 5: Lea
-  Seat 6: Maarten
+  Seat 1: Sebastiaan
+  Seat 2: Jean
+  Seat 3: Polina
+  Seat 4: Maarten
+  Seat 5: Jiyoti
+  Seat 6: Brian
 
 Table 3 (Capacity: 0 seats left):
-  Seat 1: Jagger
-  Seat 2: Polina
-  Seat 3: Cedric
-  Seat 4: Mark
-  Seat 5: Sam
-  Seat 6: Sahar
+  Seat 1: Leyla
+  Seat 2: Omar
+  Seat 3: Sylvain
+  Seat 4: Lea
+  Seat 5: Oleh
+  Seat 6: Mehmet
 
 Table 4 (Capacity: 0 seats left):
-  Seat 1: Jiyoti
-  Seat 2: Phillipe
-  Seat 3: Sisko
-  Seat 4: Sebastiaan
-  Seat 5: Sylvain
-  Seat 6: Brian
+  Seat 1: Hazem
+  Seat 2: Julio
+  Seat 3: Phillipe
+  Seat 4: Archana
+  Seat 5: Mimoun
+  Seat 6: Mahak
